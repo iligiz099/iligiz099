@@ -1,4 +1,6 @@
-### 👋Hi, my name is Iligiz!
+### 👋<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Iligiz</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Developer</h3>
 
 <!--
 **iligiz099/iligiz099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
